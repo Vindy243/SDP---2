@@ -9,7 +9,7 @@
 
 body{
     background-color: rgb(21, 74, 74);
-    background: linear-gradient(to right, rgb(32, 211, 211), rgb(21, 139, 139));
+    background: linear-gradient(to right, rgb(49, 128, 128), rgb(6, 47, 47));
     display: flex;
     align-items: center;
     justify-content: center;
@@ -166,7 +166,7 @@ body{
 .toggle{
     background-color: #512da8;
     height: 100%;
-    background: linear-gradient(to right, rgb(63, 191, 191), rgb(2, 17, 17));
+    background: linear-gradient(to right, rgb(13, 55, 55), rgb(14, 192, 192));
     color: #fff;
     position: relative;
     left: -100%;
